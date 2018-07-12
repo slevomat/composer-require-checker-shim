@@ -1,0 +1,6 @@
+{
+	"name": "slevomat/composer-require-checker-shim",
+	"description": "ComposerRequireChecker shim",
+	"homepage": "http://github.com/slevomat/composer-require-checker-shim",
+	"bin": ["composer-require-checker"]
+}
